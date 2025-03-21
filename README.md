@@ -1,12 +1,1 @@
-Unified Family Finance Tracker
-
-A modern family financial management web application that helps track expenses, set budgets, and manage savings efficiently.
-
-Features
-
-Real-time expense and income tracking
-Budget planning with alerts
-Savings and investment monitoring
-Interactive graphs and charts for reports
-Multi-user family sharing access
-Dark mode and customizable settings
+Unified Family Finance Tracker is a modern web application designed to help families manage their finances efficiently. It allows real-time tracking of expenses and income, enabling better budget planning with alerts to avoid overspending. Users can monitor their savings and investments while accessing interactive graphs and charts for insightful financial reports. The platform supports multi-user family sharing, ensuring collaborative financial management, and offers a dark mode along with customizable settings for a personalized experience.
